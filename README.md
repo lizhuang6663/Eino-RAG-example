@@ -14,6 +14,3 @@
 - **config**： 一些隐私性配置内容，如**APIKey**。
 - **其他内容**： RAG引擎的各个组件，如 loader、splitter、retriever等，均为 Eino框架 的重要构成**组件 (Components)**。
 
-
-**具体内容请参考代码内容！**</br>
-**don't speak and show you the codes!**
